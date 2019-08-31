@@ -1,0 +1,7 @@
+25/8
+
+1. mkdir express-server
+2. cd express-server
+3. npm init
+4. npm install --save express
+5. create index.js
